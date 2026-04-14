@@ -1,0 +1,13 @@
+"Outcome","Model","RMSE","MAE"
+"logged tumor in mRNA expression","ENET",2.26825,2.26825
+"logged tumor in mRNA expression","LASSO",3.18125,3.18125
+"logged tumor in mRNA expression","LM",3.494,3.494
+"logged tumor in mRNA expression","RF",1.75375,1.75375
+"logged tumor in mRNA expression","SVM",1.7835,1.7835
+"logged tumor in mRNA expression","XGB",2.609,2.609
+"logged tumor in RhB biodistribution","ENET",0.525,0.525
+"logged tumor in RhB biodistribution","LASSO",0.526,0.526
+"logged tumor in RhB biodistribution","LM",0.949,0.949
+"logged tumor in RhB biodistribution","RF",0.5105,0.5105
+"logged tumor in RhB biodistribution","SVM",0.582666666666667,0.582666666666667
+"logged tumor in RhB biodistribution","XGB",0.7055,0.7055
