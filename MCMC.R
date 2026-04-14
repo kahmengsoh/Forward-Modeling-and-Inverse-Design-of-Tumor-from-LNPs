@@ -25,7 +25,7 @@ library(ggplot2)
 # ---------------------------
 # User input
 # ---------------------------
-data_path <- "ML_mRNA-LNP_FI - Sample.csv"
+data_path <- "ML_mRNA-LNP_FI.csv"
 output_dir <- "MCMC"
 
 if (!file.exists(data_path)) {
